@@ -1,0 +1,14 @@
+{
+  "name": "eyetune",
+  "version": "1.0.0",
+  "description": "eye tracking synth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "damakuno",
+  "license": "MIT",
+  "dependencies": {
+    "tone": "^14.7.39"
+  }
+}
